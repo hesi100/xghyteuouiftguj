@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kermanshah">
+        <item> انتخاب کنید : </item>
+        <item> ازگله </item>
+        <item> اسلام‌آباد غرب </item>
+        <item> بانه‌ وره </item>
+        <item> باینگان </item>
+        <item> بیستون </item>
+        <item> پاوه </item>
+        <item> تازه‌آباد </item>
+        <item> جوانرود </item>
+        <item> حمیل </item>
+        <item> رباط </item>
+        <item> روانسر </item>
+        <item> ریجاب </item>
+        <item> سرپل ذهاب </item>
+        <item> سرمست </item>
+        <item> سطر </item>
+        <item> سنقر </item>
+        <item> سومار </item>
+        <item> شاهو </item>
+        <item> صحنه </item>
+        <item> قصر شیرین </item>
+        <item> کرمانشاه </item>
+        <item> کرند غرب </item>
+        <item> کنگاور </item>
+        <item> کوزران </item>
+        <item> گهواره </item>
+        <item> گودین </item>
+        <item> گیلانغرب </item>
+        <item> میان‌ راهان </item>
+        <item> نودشه </item>
+        <item> نوسود </item>
+        <item> هرسین </item>
+        <item> هلشی </item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="khorasanrazvi">
+        <item> انتخاب کنید :</item>
+        <item> انابد </item>
+        <item> باجگیران </item>
+        <item> باخرز </item>
+        <item> بار </item>
+        <item> بایگ </item>
+        <item> بجستان </item>
+        <item> بردسکن </item>
+        <item> بیدخت </item>
+        <item> تایباد </item>
+        <item> تربت جام </item>
+        <item> تربت حیدریه </item>
+        <item> جغتای </item>
+        <item> جنگل </item>
+        <item> چاپشلو </item>
+        <item> چکنه </item>
+        <item> چناران </item>
+        <item> خرو </item>
+        <item> خلیل‌آباد </item>
+        <item> خواف </item>
+        <item> داورزن </item>
+        <item> دررود </item>
+        <item> درگز </item>
+        <item> دولت‌آباد </item>
+        <item> رباط سنگ </item>
+        <item> رشتخوار </item>
+        <item> رضویه </item>
+        <item> رودآب </item>
+        <item> ریوش </item>
+        <item> سبزوار </item>
+        <item> سرخس </item>
+        <item> سلامی </item>
+        <item> سلطان‌آباد </item>
+        <item> سنگان </item>
+        <item> شادمهر </item>
+        <item> شاندیز </item>
+        <item> ششتمد </item>
+        <item> شهرآباد </item>
+        <item>صالح‌آباد </item>
+        <item> طرقبه </item>
+        <item> عشق‌آباد </item>
+        <item> فرهادگرد </item>
+        <item>فریمان </item>
+        <item> فیروزه </item>
+        <item> فیض‌آباد </item>
+        <item> قاسم‌آباد </item>
+        <item> قدمگاه </item>
+        <item> قلندرآباد </item>
+        <item> قوچان </item>
+        <item> کاخک </item>
+        <item> کاریز </item>
+        <item> کاشمر </item>
+        <item> کدکن </item>
+        <item> کلات </item>
+        <item> کندر </item>
+        <item> گناباد </item>
+        <item> لطف‌آباد </item>
+        <item> مشهد </item>
+        <item> مشهد ریزه </item>
+        <item> ملک‌آباد </item>
+        <item> نشتیفان </item>
+        <item> نصرآباد </item>
+        <item> نقاب </item>
+        <item> نوخندان </item>
+        <item> نیشابور </item>
+        <item> نیل‌شهر </item>
+        <item> همت‌آباد </item>
+        <item> یونسی </item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kordestan">
+<item> انتخاب کنید :</item>
+        <item> آرمرده </item>
+        <item> اورامان </item>
+        <item> بابارشانی </item>
+        <item> بانه </item>
+        <item> بلبان‌آباد </item>
+        <item> بویین سفلی </item>
+        <item> بیجار </item>
+        <item> پیرتاج </item>
+        <item> توپ‌آغاج </item>
+        <item> چناره </item>
+        <item> دزج </item>
+        <item> دلبران </item>
+        <item> دهگلان </item>
+        <item> دیواندره </item>
+        <item> زرینه </item>
+        <item> سروآباد </item>
+        <item> سریش‌آباد </item>
+        <item> سقز </item>
+        <item> سنندج </item>
+        <item> شویشه </item>
+        <item> صاحب </item>
+        <item> قروه </item>
+        <item> کامیاران </item>
+        <item> کانی‌دینار </item>
+        <item> کانی‌سور </item>
+        <item> مریوان </item>
+        <item> موچش </item>
+        <item> یاسوکند </item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mazandaran">
+        <item> انتخاب کنید :</item>
+        <item> ارطه </item>
+        <item> آلاشت </item>
+        <item> امام‌زاده عبدالله </item>
+        <item> آمل </item>
+        <item> امیرکلا </item>
+        <item> ایزدشهر </item>
+        <item> بابل </item>
+        <item> بابلسر </item>
+        <item> بلده </item>
+        <item> بهشهر </item>
+        <item> بهنمیر </item>
+        <item> پل سفید </item>
+        <item> تنکابن </item>
+        <item> جویبار </item>
+        <item> چالوس </item>
+        <item> چمستان </item>
+        <item> خرم‌آباد </item>
+        <item> خلیل‌شهر </item>
+        <item> خوش‌رودپی </item>
+        <item> دابودشت </item>
+        <item> رامسر </item>
+        <item> رستمکلا </item>
+        <item> رویان </item>
+        <item> رینه </item>
+        <item> زرگرمحله </item>
+        <item> زیرآب </item>
+        <item> ساری </item>
+        <item> سرخ‌رود </item>
+        <item> سلمان‌شهر </item>
+        <item> سورک </item>
+        <item> شیرگاه </item>
+        <item> شیرود </item>
+        <item> عباس‌آباد </item>
+        <item> فریدون‌کنار </item>
+
+        <item> فریم </item>
+        <item> قائم‌شهر </item>
+        <item> کتالم و سادات‌شهر </item>
+        <item> کلارآباد </item>
+        <item> کلاردشت </item>
+        <item> کله‌بست </item>
+        <item> کوهی‌خیل </item>
+        <item> کیاسر </item>
+        <item> کیاکلا </item>
+        <item> گزنک </item>
+        <item> گلوگاه </item>
+        <item> گلوگاه بابل </item>
+        <item> گتاب </item>
+        <item> محمودآباد </item>
+        <item> مرزن‌آباد </item>
+        <item> مرزیکلا </item>
+        <item> نشتارود </item>
+        <item> نکا </item>
+        <item> نور </item>
+        <item> نوشهر </item>
+
+
+
+
+
+
+    </string-array>
+</resources>

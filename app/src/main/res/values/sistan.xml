@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sistan">
+        <item> انتخاب کنید :</item>
+        <item> ادیمی </item>
+        <item>ادیمی </item>
+        <item> ایرانشهر </item>
+        <item> بزمان </item>
+        <item> بمپور </item>
+        <item> بنت </item>
+        <item> بنجار </item>
+        <item> پیشین </item>
+        <item> جالق </item>
+        <item> چابهار </item>
+        <item> خاش </item>
+        <item> دوست‌ محمد </item>
+        <item> راسک </item>
+        <item> زابل </item>
+        <item> زاهدان </item>
+        <item> زهک </item>
+        <item> گشت </item>
+        <item> سراوان </item>
+        <item> سرباز </item>
+        <item> سوران </item>
+        <item> سیرکان </item>
+        <item> فنوج </item>
+        <item> قصرقند </item>
+        <item> کنارک </item>
+        <item> گلمورتی </item>
+        <item> محمدآباد </item>
+        <item> مهرستان </item>
+        <item> میرجاوه </item>
+        <item> نصرت‌آباد </item>
+        <item> نگور </item>
+        <item> نوک‌آباد </item>
+        <item> نیک‌شهر </item>
+    </string-array>
+</resources>

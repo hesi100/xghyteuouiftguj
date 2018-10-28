@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hamadan">
+        <item> انتخاب کنید : </item>
+        <item> ازندریان </item>
+        <item> اسدآباد </item>
+        <item> برزول </item>
+        <item> بهار </item>
+        <item> تویسرکان </item>
+        <item> جورقان </item>
+        <item> جوکار </item>
+        <item> دمق </item>
+        <item> رزن </item>
+        <item> زنگنه </item>
+        <item> سامن </item>
+        <item> سرکان </item>
+        <item> شیرین‌سو </item>
+        <item> صالح‌آباد </item>
+        <item> فامنین </item>
+        <item> فرسفج </item>
+        <item> فیروزان </item>
+        <item> قروه درجزین </item>
+        <item> قهاوند </item>
+        <item> کبودرآهنگ </item>
+        <item> گل‌تپه </item>
+        <item> گیان </item>
+        <item> لالجین </item>
+        <item> مریانج </item>
+        <item> ملایر </item>
+        <item> مهاجران </item>
+        <item> نهاوند </item>
+        <item> همدان </item>
+
+    </string-array>
+</resources>

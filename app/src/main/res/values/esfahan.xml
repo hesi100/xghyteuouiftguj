@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="esfahan">
+        <item> انتخاب کنید : </item>
+        <item> ابریشم </item>
+        <item> ابوزیدآباد </item>
+        <item> اردستان </item>
+        <item> اژیه </item>
+        <item> اصفهان </item>
+        <item> افوس </item>
+        <item> انارک </item>
+        <item> آران و بیدگل </item>
+        <item> ایمان‌شهر </item>
+        <item> بادرود </item>
+        <item> باغ بهادران </item>
+        <item> بافران </item>
+        <item> برف‌انبار </item>
+        <item> بهاران‌شهر </item>
+        <item> بهارستان </item>
+        <item> بوئین و میاندشت </item>
+        <item> پیربکران </item>
+        <item> تودشک </item>
+        <item> تیران </item>
+        <item> جندق </item>
+        <item> جوزدان </item>
+        <item> چادگان </item>
+        <item> چرمهین </item>
+        <item> چمگردان </item>
+        <item> حبیب‌آباد </item>
+        <item> حسن‌آباد </item>
+        <item> حنا </item>
+        <item> خالدآباد </item>
+        <item> خمینی شهر </item>
+        <item> خوانسار </item>
+        <item> خور </item>
+        <item> خوراسگان </item>
+        <item> خورزوق </item>
+        <item> داران </item>
+        <item> دامنه </item>
+        <item> درچه‌پیاز </item>
+        <item> دستگرد </item>
+        <item> دهاقان </item>
+        <item> دهق </item>
+        <item> دولت‌آباد </item>
+        <item> دیزیچه </item>
+        <item> رزوه </item>
+        <item> رضوان‌شهر </item>
+        <item> زاینده‌رود </item>
+        <item> زرین شهر </item>
+        <item> زواره </item>
+        <item> زیار </item>
+        <item> زیباشهر </item>
+        <item> سده لنجان </item>
+        <item> سفیدشهر </item>
+        <item> سگزی </item>
+        <item> سمیرم </item>
+        <item> شاپورآباد </item>
+        <item> شاهین‌شهر </item>
+        <item>  شهرضا </item>
+        <item> طالخونچه </item>
+        <item> عسگران </item>
+        <item> علویجه </item>
+        <item> فرخی </item>
+        <item> فریدون‌شهر </item>
+        <item> فلاورجان </item>
+        <item> فولادشهر </item>
+        <item> قهدریجان </item>
+        <item> کاشان </item>
+        <item> کرکوند </item>
+        <item> کلیشاد و سودرجان </item>
+        <item> کمشجه </item>
+        <item> کمه </item>
+        <item> کهریزسنگ </item>
+        <item> کوشک </item>
+        <item> کوه‌پایه </item>
+        <item> گز </item>
+        <item> گلپایگان </item>
+        <item> گل‌دشت </item>
+        <item> گل‌شهر </item>
+        <item> گلشن </item>
+        <item> گوگد </item>
+        <item> مبارکه </item>
+        <item> محمدآباد </item>
+        <item> محسن آباد </item>
+        <item> مشکات </item>
+        <item> منظریه </item>
+        <item> مهاباد </item>
+        <item> میمه </item>
+        <item> نایین </item>
+        <item> نوش آباد </item>
+        <item> نجف‌آباد </item>
+        <item> نصرآباد </item>
+        <item> نطنز </item>
+        <item> نیک‌آباد </item>
+        <item> ورزنه </item>
+        <item> ورنامخواست </item>
+        <item> ونک </item>
+        <item> هرند </item>
+        <item> وزوان </item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chaarmahal">
+        <item> انتخاب کنید : </item>
+        <item> آلونی </item>
+        <item>  اردل </item>
+        <item>  باباحیدر </item>
+        <item> بروجن </item>
+        <item> بلداجی </item>
+        <item> بن </item>
+        <item> بیرگان </item>
+        <item> پرندجان </item>
+        <item> جعفرآباد </item>
+        <item> جونقان </item>
+        <item> چالشتر </item>
+        <item> چلگرد </item>
+        <item> چلیچه </item>
+        <item> دستنا </item>
+        <item> دشتک </item>
+        <item> سامان </item>
+        <item> سرخون </item>
+        <item> سفیددشت </item>
+        <item> سودجان </item>
+        <item> سورشجان </item>
+        <item> شلمزار </item>
+        <item> شهرکرد </item>
+        <item> طاقانک </item>
+        <item> فارسان </item>
+        <item> فرادنبه </item>
+        <item> فرخ‌شهر </item>
+        <item> کاج </item>
+        <item> کیان </item>
+        <item> گندمان </item>
+        <item> گهرو </item>
+        <item> گوجان </item>
+        <item> لردگان </item>
+        <item> مال‌خلیفه </item>
+        <item> منج </item>
+        <item> ناغان </item>
+        <item> نافچ </item>
+        <item> نقنه </item>
+        <item> هفشجان </item>
+        <item> وردنجان </item>
+    </string-array>
+</resources>

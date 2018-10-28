@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kerman">
+        <item> اختیارآباد </item>
+        <item> ارزوئیه </item>
+        <item> امین‌ شهر </item>
+        <item> انار </item>
+        <item> اندوهجرد </item>
+        <item> باغین </item>
+        <item> بافت </item>
+        <item> بردسیر </item>
+        <item> بروات </item>
+        <item> بزنجان </item>
+        <item> بم </item>
+        <item> بهرمان </item>
+        <item> پاریز </item>
+        <item> جبالبارز </item>
+        <item> جوزم </item>
+        <item> جوپار </item>
+        <item> جیرفت </item>
+        <item> چترود </item>
+        <item> خاتون‌آباد </item>
+        <item> خانوک </item>
+        <item> خرسند </item>
+        <item> درب بهشت </item>
+        <item> دهج </item>
+        <item> رابر </item>
+        <item> راور </item>
+        <item> راین </item>
+        <item> رفسنجان </item>
+        <item> رودبار </item>
+        <item> ریحان‌شهر </item>
+        <item> زرند </item>
+        <item> زنگی‌آباد </item>
+        <item> زیدآباد </item>
+        <item> سیرجان </item>
+        <item> شهداد </item>
+        <item> شهربابک </item>
+        <item> صفائیه </item>
+        <item> عنبرآباد</item>
+        <item> فاریاب </item>
+        <item> فهرج </item>
+        <item> قلعه‌گنج </item>
+        <item> کاظم‌آباد </item>
+        <item> کرمان </item>
+        <item> کشکوئیه </item>
+        <item> کهنوج </item>
+        <item> کوهبنان </item>
+        <item> کیان‌شهر </item>
+        <item> گلباف </item>
+        <item> گلزار </item>
+        <item> ماهان </item>
+        <item> محمدآباد </item>
+        <item> محی‌آباد </item>
+        <item> مردهک </item>
+        <item> مس سرچشمه </item>
+        <item> منوجان </item>
+        <item> نجف‌شهر </item>
+        <item> نرماشیر </item>
+        <item> نظام‌شهر </item>
+        <item> نگار </item>
+        <item> نودژ </item>
+        <item> هجدک </item>
+        <item>هنزا </item>
+        <item> یزدان‌شهر </item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ardabil">
+        <item> انتخاب کنید : </item>
+        <item> آبی‌بیگلو </item>
+        <item> اردبیل </item>
+        <item> اسلام‌آباد </item>
+        <item> اصلاندوز </item>
+        <item> بیله‌سوار </item>
+        <item> تازه‌کند </item>
+        <item> تازه‌کند انگوت </item>
+        <item> جعفرآباد </item>
+        <item> خلخال </item>
+        <item> رضی </item>
+        <item> سرعین </item>
+        <item> عنبران </item>
+        <item> فخرآباد </item>
+        <item> قصابه </item>
+        <item> لاهرود </item>
+        <item> مرادلو </item>
+        <item> مشگین‌شهر </item>
+        <item> نمین </item>
+        <item> نیر </item>
+        <item> هشجین </item>
+        <item> هیر </item>
+        <item> پارس‌آباد </item>
+        <item> کلور </item>
+        <item> کوراییم </item>
+        <item> گرمی </item>
+        <item> گیوی </item>
+
+    </string-array>
+</resources>

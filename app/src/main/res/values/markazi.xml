@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="markazi">
+        <item> انتخاب کنید : </item>
+        <item> آستانه </item>
+        <item> آشتیان </item>
+        <item> آوه </item>
+        <item> اراک </item>
+        <item> پرندک </item>
+        <item> تفرش </item>
+        <item> توره </item>
+        <item> جاورسیان </item>
+        <item> خشکرود </item>
+        <item> خمین </item>
+        <item> خنداب </item>
+        <item> خنجین </item>
+        <item> داوودآباد </item>
+        <item> دلیجان </item>
+        <item> رازقان </item>
+        <item> زاویه </item>
+        <item> ساروق </item>
+        <item> ساوه </item>
+        <item> شازند </item>
+        <item> شهباز </item>
+        <item> غرق‌آباد </item>
+        <item> فرمهین </item>
+        <item> قورچی‌باشی </item>
+        <item> کارچان </item>
+        <item> کمیجان </item>
+        <item> مأمونیه </item>
+        <item> محلات </item>
+        <item> مهاجران </item>
+        <item> میلاجرد </item>
+        <item> نراق </item>
+        <item> نوبران </item>
+        <item> نیم‌ور </item>
+        <item> هندودر </item>
+
+    </string-array>
+</resources>

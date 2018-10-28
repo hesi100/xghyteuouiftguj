@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agh">
+        <item> انتخاب کنید : </item>
+        <item> آواجیق </item>
+        <item> ارومیه </item>
+        <item> اشنویه </item>
+        <item> ایواوغلی </item>
+        <item> باروق </item>
+        <item> بازرگان </item>
+        <item> بوکان </item>
+        <item> تازه‌شهر </item>
+        <item> تکاب </item>
+        <item> خلیفان </item>
+        <item> خوی </item>
+        <item> دیزج دیز </item>
+        <item> ربط </item>
+        <item> زرآباد </item>
+        <item> سردشت </item>
+        <item> سرو </item>
+        <item> سلماس </item>
+        <item> سیلوانه </item>
+        <item> سیمینه </item>
+        <item> سیه‌چشمه </item>
+        <item> شاهین‌دژ </item>
+        <item> شوط </item>
+        <item> فیرورق </item>
+        <item> قره‌ضیاءالدین </item>
+        <item> قطور </item>
+        <item> قوشچی </item>
+        <item> ماکو </item>
+        <item> محمدیار </item>
+        <item> محمودآباد </item>
+        <item> مرگنلر </item>
+        <item> مهاباد </item>
+        <item> میاندوآب </item>
+        <item> میرآباد </item>
+        <item> نازک علیا </item>
+        <item> نالوس </item>
+        <item> نقده </item>
+        <item> نوشین‌شهر </item>
+        <item> پلدشت </item>
+        <item> پیرانشهر </item>
+        <item> چهاربرج </item>
+        <item> کشاورز </item>
+        <item> گردکشانه </item>
+
+    </string-array>
+</resources>

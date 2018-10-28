@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lorestan">
+        <item> انتخاب کنید : </item>
+        <item> ازنا </item>
+        <item> اشترینان </item>
+        <item> الشتر </item>
+        <item> الیگودرز </item>
+        <item> بروجرد </item>
+        <item> پل‌دختر </item>
+        <item> چالانچولان </item>
+        <item> چغلوندی </item>
+        <item> چقابل </item>
+        <item> خرم‌آباد </item>
+        <item> درب گنبد </item>
+        <item> دورود </item>
+        <item> زاغه </item>
+        <item> سپیددشت </item>
+        <item> سراب‌دوره </item>
+        <item> شول‌آباد </item>
+        <item> فیروزآباد </item>
+        <item> کونانی </item>
+        <item> کوهدشت </item>
+        <item> گراب </item>
+        <item> معمولان </item>
+        <item> معمولان </item>
+        <item> نورآباد </item>
+        <item> ویسیان </item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

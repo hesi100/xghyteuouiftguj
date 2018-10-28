@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="golestan">
+        <item> انتخاب کنید : </item>
+        <item> آزادشهر </item>
+        <item> آق‌ قلا </item>
+        <item> انبار آلوم </item>
+        <item> اینچه‌برون </item>
+        <item> بندر ترکمن </item>
+        <item> بندر گز </item>
+        <item> خان‌ ببین </item>
+        <item> دلند </item>
+        <item> رامیان </item>
+        <item> سرخنکلاته </item>
+        <item> سیمین ‌شهر </item>
+        <item> علی‌آباد </item>
+        <item> فاضل ‌آباد </item>
+        <item> فراغی </item>
+        <item> کردکوی </item>
+        <item> کلاله </item>
+        <item> گالیکش </item>
+        <item> گرگان </item>
+        <item> گمیشان </item>
+        <item> گنبد کاووس </item>
+        <item> مراوه ‌تپه </item>
+        <item> مینودشت </item>
+        <item> نگین‌شهر </item>
+        <item> نوده خاندوز </item>
+        <item> نوکنده </item>
+    </string-array>
+</resources>

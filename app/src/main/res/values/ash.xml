@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ash">
+        <item> انتخاب کنید : </item>
+        <item>آبش‌احمد</item>
+        <item>آذرشهر</item>
+        <item>آقکند</item>
+        <item>آچاچی</item>
+        <item>اسکو</item>
+        <item>اهر</item>
+        <item>ایلخچی</item>
+        <item>باسمنج</item>
+        <item>بخشایش</item>
+        <item>بستان‌آباد</item>
+        <item>بناب</item>
+        <item>بناب مرند</item>
+        <item>تبریز</item>
+        <item>ترک</item>
+        <item>ترکمانچای</item>
+        <item>تسوج</item>
+        <item>تیمورلو</item>
+        <item>تیکمه‌داش</item>
+        <item>جلفا</item>
+        <item>جوان‌قلعه</item>
+        <item>خاروانا</item>
+        <item>خامنه</item>
+        <item>خداجو</item>
+        <item>خسروشاه</item>
+        <item>خمارلو</item>
+        <item>خواجه</item>
+        <item>دوزدوزان</item>
+        <item>زرنق</item>
+        <item>زنوز</item>
+        <item>سراب</item>
+        <item>سردرود</item>
+        <item>سهند</item>
+        <item>سیس</item>
+        <item>سیه‌رود</item>
+        <item>شبستر</item>
+        <item>شربیان</item>
+        <item>شرفخانه</item>
+        <item>شندآباد</item>
+        <item>صوفیان</item>
+        <item>عجب‌شیر</item>
+        <item>قره‌آغاج</item>
+        <item>لیلان</item>
+        <item>مبارک‌ شهر</item>
+        <item>مراغه</item>
+        <item>مرند</item>
+        <item>ملکان</item>
+        <item>ممقان</item>
+        <item>مهربان</item>
+        <item>میانه</item>
+        <item>نظرکهریزی</item>
+        <item>هادیشهر</item>
+        <item>هریس</item>
+        <item>هشترود</item>
+        <item>هوراند</item>
+        <item>وایقان</item>
+        <item>ورزقان</item>
+        <item>کشکسرای</item>
+        <item>کلوانق</item>
+        <item>کلیبر</item>
+        <item>کوزه‌کنان</item>
+        <item>گوگان</item>
+        <item>یامچی</item>
+    </string-array>
+</resources>

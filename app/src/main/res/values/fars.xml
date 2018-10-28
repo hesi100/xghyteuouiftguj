@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fars">
+        <item> انتخاب کنید : </item>
+        <item> آباده </item>
+        <item> ارد </item>
+        <item> اردکان </item>
+        <item>ارسنجان </item>
+        <item> استهبان </item>
+        <item> اسیر </item>
+        <item> اشکنان </item>
+        <item> افزر </item>
+        <item> اقلید </item>
+        <item> اهل </item>
+        <item> اوز </item>
+        <item> ایج </item>
+        <item>ایزدخواست </item>
+        <item> باب انار </item>
+        <item> بالاده </item>
+        <item> بنارویه </item>
+        <item> بهمن </item>
+        <item> بیرم </item>
+        <item> بیضا </item>
+        <item> جنت‌شهر </item>
+        <item> جهرم </item>
+        <item> جویم </item>
+        <item> حاجی‌آباد </item>
+        <item> خانمین </item>
+        <item> خاوران </item>
+        <item> خرامه </item>
+        <item> خشت </item>
+        <item> خنج </item>
+        <item> خور </item>
+        <item> خومه‌زار </item>
+        <item> داراب </item>
+        <item> داریان </item>
+        <item> دوزه </item>
+        <item> دهرم </item>
+        <item> رامجرد </item>
+        <item> رونیز </item>
+        <item> زاهدشهر </item>
+        <item> زرقان </item>
+        <item> سده </item>
+        <item> سروستان </item>
+        <item> سلطان ‌شهر </item>
+        <item> سعادت‌ شهر </item>
+        <item> سورمق </item>
+        <item> سوریان </item>
+        <item> سیدان </item>
+        <item> ششده </item>
+        <item> شهرپیر </item>
+        <item> شیراز </item>
+        <item> صغاد </item>
+        <item> صفاشهر </item>
+        <item> علامرودشت </item>
+        <item> فراشبند </item>
+        <item> فسا </item>
+        <item> فیروزآباد </item>
+        <item> قائمیه </item>
+        <item> قادرآباد </item>
+        <item> قطب‌آباد </item>
+        <item> قیر </item>
+        <item> کارزین </item>
+        <item> کازرون </item>
+        <item> کامفیروز </item>
+        <item> کره‌ای </item>
+        <item> کنارتخته </item>
+        <item> کوار </item>
+        <item> گراش </item>
+        <item> گله‌دار </item>
+        <item> لار </item>
+        <item> لامرد </item>
+        <item> لپوئی </item>
+        <item> لطیفی </item>
+        <item> مرودشت </item>
+        <item> مشکان </item>
+        <item> مصیری </item>
+        <item> مهر </item>
+        <item> میمند </item>
+        <item> نوجین </item>
+        <item> نودان </item>
+        <item> نورآباد </item>
+        <item> نی‌ریز </item>
+        <item> وراوی </item>
+        <item> هماشهر </item>
+    </string-array>
+</resources>

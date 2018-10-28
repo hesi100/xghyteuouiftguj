@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boyerahmad">
+        <item> انتخاب کنید : </item>
+        <item> باشت </item>
+        <item> پاتاوه </item>
+        <item> چرام </item>
+        <item> چیتاب </item>
+        <item> دهدشت </item>
+        <item> دوگنبدان </item>
+        <item> دیشموک </item>
+        <item> سوق </item>
+        <item> سی‌سخت </item>
+        <item> قلعه رئیسی </item>
+        <item> گراب سفلی </item>
+        <item> لنده </item>
+        <item> لیکک </item>
+        <item> مارگون </item>
+        <item> یاسوج </item>
+
+    </string-array>
+</resources>

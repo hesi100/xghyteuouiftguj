@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#0059ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    <color name="purple">#c940ff</color>
+    <color name="skyblue">#35d0ff</color>
+    <color name="gray">#f4f4f4</color>
+    <color name="perfect">#11cc00</color>
+    <color name="nice">#00e708</color>
+    <color name="average">#ff8c00</color>
+    <color name="bad">#ff3842</color>
+    <color name="terrible">#ff000d</color>
+    <color name="tusi">#d9d8d8</color>
+    <color name="toolbar">#00aeff</color>
+    <color name="toolbar1">#007bff</color>
+    <color name="textblack">#737373</color>
+
+</resources>

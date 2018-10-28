@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/li">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:orientation="vertical"
+                android:layout_marginRight="10dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_gravity="right"
+                    android:gravity="right"
+                    android:layout_marginTop="5dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="5"
+                        android:gravity="right"
+                        android:layout_marginTop="3dp"
+                        android:textSize="15sp"
+                        android:id="@+id/barbername" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:text="اسم آرایشگاه :"
+                        android:layout_gravity="center_horizontal"
+                        android:textSize="20sp"
+                        android:layout_weight="0.8"
+                        />
+                    <ImageView
+                        android:layout_weight="0.05"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/cut"/>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.8">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="9"
+                        android:textSize="15sp"
+                        android:gravity="right"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginLeft="10dp"
+                        android:id="@+id/barberaddress" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:text="آدرس :"
+                        android:layout_gravity="center_horizontal"
+                        android:textSize="20sp"
+                        android:layout_weight="0.8"
+                        />
+                    <ImageView
+                        android:layout_weight="0.05"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/placeholder"/>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+                    <ImageView
+                        android:id="@+id/favorite"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/star2"
+                        android:tag="star2"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="9"
+                        android:gravity="right"
+                        android:layout_marginTop="3dp"
+                        android:textSize="15sp"
+                        android:layout_marginLeft="10dp"
+                        android:id="@+id/barberoff"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+
+                        android:layout_marginRight="10dp"
+                        android:text="تخفیف :"
+                        android:layout_gravity="center_horizontal"
+                        android:textSize="20sp"
+                        android:layout_weight="0.8"
+                        />
+                    <ImageView
+                        android:layout_weight="0.05"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/coupon"/>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5"
+                android:layout_marginRight="10dp">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:id="@+id/barberimage"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="9"
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/comment" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:text="نظر من :"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp"
+                android:layout_weight="0.8"
+                />
+            <ImageView
+                android:layout_weight="0.05"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/placeholder"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#ccc">
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

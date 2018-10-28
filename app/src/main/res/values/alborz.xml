@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alborz">
+        <item> انتخاب کنید : </item>
+        <item> آسارا </item>
+        <item> اشتهارد </item>
+        <item> چهارباغ </item>
+        <item> شهر جدید هشتگرد </item>
+        <item> طالقان </item>
+        <item> کرج </item>
+        <item> کمال‌شهر </item>
+        <item> کوهسار </item>
+        <item> گرمدره </item>
+        <item> گلسار </item>
+        <item> ماهدشت </item>
+        <item> محمدشهر </item>
+        <item> مشکین‌دشت </item>
+        <item> نظرآباد </item>
+        <item> هشتگرد </item>
+    </string-array>
+</resources>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer"
+    tools:context="com.example.hesi100.barber.main"
+    android:orientation="horizontal">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/toolbar_main">
+        </include>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#ccc">
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:background="@color/toolbar1"
+                android:gravity="right">
+
+                <Button
+                    android:id="@+id/searchbutton"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/search"
+                    android:gravity="center"
+                    android:text=" جستجو" />
+
+                <EditText
+                    android:id="@+id/searchby"
+                    android:layout_width="200dp"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/search"
+                    android:clickable="true"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColorHint="#bbb"
+                    android:textSize="15sp" />
+
+                <android.support.v7.widget.AppCompatSpinner
+                    android:id="@+id/search"
+                    android:layout_width="75dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/search"
+                    android:gravity="center" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/background">
+    <android.support.v7.widget.RecyclerView
+
+        android:layout_weight="1"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/Recycle">
+    </android.support.v7.widget.RecyclerView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="7"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/tabselected"
+                android:orientation="vertical"
+                android:id="@+id/litab1">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center">
+                <ImageView
+                    android:layout_width="32dp"
+                    android:id="@+id/tabhome"
+                    android:layout_height="32dp"
+                    android:src="@drawable/home1"
+                    android:tag="home2"/>
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="نزدیک ترین "/>
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:gravity="bottom"
+                    android:layout_gravity="bottom"
+                    android:background="@color/colorPrimary">
+
+                </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/tabs"
+                android:orientation="vertical"
+                android:id="@+id/litab2">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center">
+                    <ImageView
+                        android:layout_width="32dp"
+                        android:id="@+id/tabdiscount"
+                        android:layout_height="32dp"
+                        android:src="@drawable/discount"
+                        android:tag="discount"/>
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="تخفیف "/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                    <LinearLayout
+                        android:id="@+id/tab2"
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:gravity="bottom"
+                        android:layout_gravity="bottom"
+                        android:background="@color/colorPrimary"
+                        android:orientation="horizontal"
+                        android:visibility="invisible">
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/tabs"
+                android:orientation="vertical"
+                android:id="@+id/litab3">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center">
+                    <ImageView
+                        android:layout_marginTop="2dp"
+                        android:layout_width="28dp"
+                        android:id="@+id/tabfavorite"
+                        android:layout_height="28dp"
+                        android:src="@drawable/tabstar"
+                        android:tag="tabstar"/>
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="منتخب من "/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                    <LinearLayout
+                        android:id="@+id/tab3"
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:gravity="bottom"
+                        android:layout_gravity="bottom"
+                        android:background="@color/colorPrimary"
+                        android:orientation="horizontal"
+                        android:visibility="invisible">
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <fragment
+        android:id="@+id/nav_drwr_fragment"
+        android:name="com.example.hesi100.barber.userfragment"
+        android:layout_width="270dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        app:layout="@layout/fragment_userfragment"
+        tools:layout="@layout/fragment_userfragment" />
+</android.support.v4.widget.DrawerLayout>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="khozestan">
+        <item> انتخاب کنید :</item>
+        <item> آبادان </item>
+        <item> آغاجاری </item>
+        <item> ابوحمیظه </item>
+        <item> اروندکنار </item>
+        <item> الوان </item>
+        <item> الهایی </item>
+        <item> امیدیه </item>
+        <item> اندیمشک </item>
+        <item> اهواز </item>
+        <item> ایذه </item>
+        <item> باغ‌ملک </item>
+        <item> بستان، خوزستان </item>
+        <item> بندر امام خمینی </item>
+        <item> بندر ماهشهر </item>
+        <item> بهبهان </item>
+        <item> ترکالکی </item>
+        <item> تشان </item>
+        <item> جایزان </item>
+        <item> جنت‌مکان </item>
+        <item> چمران </item>
+        <item> حر ریاحی </item>
+        <item> حسینیه </item>
+        <item> حمیدیه </item>
+        <item> خرمشهر </item>
+        <item> خنافره </item>
+        <item> سردشت </item>
+        <item> سوسنگرد </item>
+        <item> شادگان </item>
+        <item> شوش </item>
+        <item> شوشتر </item>
+        <item> شیبان </item>
+        <item> صفی‌آباد </item>
+        <item> صیدون </item>
+        <item> قلعه‌تل </item>
+        <item> قلعه خواجه </item>
+        <item> کارون </item>
+        <item> کوت سیدنعیم </item>
+        <item> گتوند </item>
+        <item> گلگیر </item>
+        <item> لالی </item>
+        <item> مسجدسلیمان </item>
+        <item> مقاومت </item>
+        <item> ملاثانی </item>
+        <item> منصوریه </item>
+        <item> میانرود </item>
+        <item> مینوشهر </item>
+        <item> هفتکل </item>
+        <item> هندیجان </item>
+        <item> هویزه </item>
+        <item>ویس </item>
+</string-array>
+</resources>

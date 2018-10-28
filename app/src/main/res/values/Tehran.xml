@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tehran">
+        <item>انتخاب کنید :  </item>
+        <item> آبسرد </item>
+        <item> آبعلی </item>
+        <item> ارجمند </item>
+        <item> اسلام‌شهر </item>
+        <item> اندیشه </item>
+        <item> باغستان </item>
+        <item> باقرشهر </item>
+        <item> بومهن </item>
+        <item> پاکدشت </item>
+        <item> پردیس </item>
+        <item> پرند </item>
+        <item> پیشوا </item>
+        <item> تهران </item>
+        <item> جوادآباد </item>
+        <item> چهاردانگه </item>
+        <item> حسن‌آباد </item>
+        <item> دماوند </item>
+        <item> رباط‌کریم </item>
+        <item> رودهن </item>
+        <item> شاهدشهر </item>
+        <item> شریف‌آباد </item>
+        <item> شمشک </item>
+        <item> شهر ری </item>
+        <item> شهریار </item>
+        <item> صالحیه </item>
+        <item> صباشهر </item>
+        <item> صفادشت </item>
+        <item> فردوسیه </item>
+        <item> فشم </item>
+        <item> فیروزکوه </item>
+        <item> شهر قدس </item>
+        <item> قرچک </item>
+        <item> کهریزک </item>
+        <item> کیلان </item>
+        <item> گلستان </item>
+        <item> لواسان </item>
+        <item> ملارد </item>
+        <item> نسیم‌شهر </item>
+        <item> نصیرشهر </item>
+        <item> وحیدیه </item>
+        <item> ورامین </item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="khorasanjonob">
+        <item> انتخاب کنید : </item>
+        <item> آرین‌شهر </item>
+        <item> ارسک </item>
+        <item> اسدیه </item>
+        <item> اسفدن </item>
+        <item> اسلامیه </item>
+        <item> آیسک </item>
+        <item> بشرویه </item>
+        <item> بیرجند </item>
+        <item> حاجی‌آباد </item>
+        <item> خضری دشت بیاض </item>
+        <item> خوسف </item>
+        <item> دیهوک </item>
+        <item> زهان </item>
+        <item> سرایان</item>
+        <item> سربیشه </item>
+        <item> سه‌قلعه </item>
+        <item> شوسف </item>
+        <item> طبس </item>
+        <item> طبس مسینا </item>
+        <item> عشق‌آباد </item>
+        <item> فردوس </item>
+        <item> قائن </item>
+        <item> قهستان </item>
+        <item> گزیک </item>
+        <item> محمدشهر </item>
+        <item> مود </item>
+        <item> نهبندان </item>
+        <item> نیمبلوک </item>
+    </string-array>
+</resources>

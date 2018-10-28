@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gazvin">
+        <item> انتخاب کنید :</item>
+        <item> آبگرم </item>
+        <item> آبیک </item>
+        <item> آوج </item>
+        <item> ارداق </item>
+        <item> اسفرورین </item>
+        <item> اقبالیه </item>
+        <item> الوند </item>
+        <item> بوئین‌زهرا </item>
+        <item> بیدستان </item>
+        <item> تاکستان </item>
+        <item> خاکعلی </item>
+        <item> خرمدشت </item>
+        <item> دانسفهان </item>
+        <item> رازمیان </item>
+        <item> سگزآباد </item>
+        <item> سیردان </item>
+        <item> شال </item>
+        <item> ضیاءآباد </item>
+        <item> قزوین </item>
+        <item> کوهین </item>
+        <item> محمدیه </item>
+        <item> محمودآباد نمونه </item>
+        <item> معلم‌کلایه </item>
+        <item> نرجه </item>
+
+    </string-array>
+</resources>

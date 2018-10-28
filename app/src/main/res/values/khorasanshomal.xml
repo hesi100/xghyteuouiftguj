@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="khorasanshomal">
+    <item> انتخاب کنید :</item>
+        <item> آشخانه </item>
+        <item> اسفراین </item>
+        <item> بجنورد </item>
+        <item> پیش‌ قلعه </item>
+        <item> جاجرم </item>
+        <item> حصار گرم‌خان </item>
+        <item> درق </item>
+        <item> ایور </item>
+        <item> راز </item>
+        <item> سنخواست </item>
+        <item> شوقان </item>
+        <item> شیروان </item>
+        <item> صفی‌آباد </item>
+        <item> فاروج </item>
+        <item>قاضی </item>
+        <item> گرمه </item>
+        <item> لوجلی </item>
+        <item> تیتکانلو </item>
+    </string-array>
+</resources>

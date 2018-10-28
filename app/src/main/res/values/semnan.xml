@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="semnan">
+        <item> انتخاب کنید : </item>
+        <item> آرادان </item>
+        <item>  امیریه </item>
+        <item> ایوانکی </item>
+        <item> بسطام </item>
+        <item> بیارجمند </item>
+        <item> دامغان </item>
+        <item>درجزین </item>
+        <item> دیباج </item>
+        <item>سرخه </item>
+        <item> سمنان </item>
+        <item> شاهرود </item>
+        <item> شهمیرزاد </item>
+        <item> کلاته خیج </item>
+        <item> کلاته رودبار </item>
+        <item> گرمسار </item>
+        <item> مجن </item>
+        <item> مهدی‌شهر </item>
+        <item> میامی </item>
+    </string-array>
+</resources>

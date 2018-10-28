@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gom">
+        <item> انتخاب کنید : </item>
+        <item> جعفریه </item>
+        <item> دستجرد </item>
+        <item> سلفچگان </item>
+        <item> قم </item>
+        <item> قنوات </item>
+        <item> کهک </item>
+
+    </string-array>
+</resources>

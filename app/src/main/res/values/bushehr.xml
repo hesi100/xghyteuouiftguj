@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bushehr">
+        <item> انتخاب کنید : </item>
+        <item> آباد </item>
+        <item> آب‌ پخش </item>
+        <item> آبدان </item>
+        <item> امام حسن </item>
+        <item> انارستان </item>
+        <item> اهرم </item>
+        <item> بادوله </item>
+        <item>برازجان </item>
+        <item> بردخون </item>
+        <item> بردستان </item>
+        <item> بندر بوشهر </item>
+        <item> بندر دیر </item>
+        <item> بندر دیلم </item>
+        <item> بندر ریگ </item>
+        <item> بندر سیراف </item>
+        <item> بندر کنگان </item>
+        <item> بندر گناوه </item>
+        <item> بنک </item>
+        <item> بوشکان </item>
+        <item> تنگ ارم </item>
+        <item> جم </item>
+        <item> چغادک </item>
+        <item> جزیره خارک </item>
+        <item> خورموج </item>
+        <item> دالکی </item>
+        <item> دلوار </item>
+        <item> دوراهک </item>
+        <item> ریز </item>
+        <item> سعدآباد </item>
+        <item> شبانکاره </item>
+        <item> شنبه </item>
+        <item> عالی‌شهر </item>
+        <item> عسلویه </item>
+        <item> کاکی </item>
+        <item> کلمه </item>
+        <item> نخل تقی </item>
+        <item> وحدتیه </item>
+    </string-array>
+</resources>

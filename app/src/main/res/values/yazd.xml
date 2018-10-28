@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yazd">
+        <item> انتخاب کنید :</item>
+        <item> ابرکوه </item>
+        <item> احمدآباد </item>
+        <item> اردکان </item>
+        <item> اشکذر </item>
+        <item> بافق </item>
+        <item> بفروئیه </item>
+        <item> بهاباد </item>
+        <item> تفت </item>
+        <item> حمیدیا </item>
+        <item> خضرآباد </item>
+        <item> زارچ </item>
+        <item> شاهدیه </item>
+        <item> عقدا </item>
+        <item> مروست </item>
+        <item> مهردشت </item>
+        <item> مهریز </item>
+        <item> میبد </item>
+        <item> ندوشن </item>
+        <item> نیر </item>
+        <item> هرات </item>
+        <item> یزد </item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ilam">
+        <item> انتخاب کنید : </item>
+        <item> آبدانان </item>
+        <item> آسمان‌آباد </item>
+        <item> ارکواز </item>
+        <item> ایلام </item>
+        <item> ایوان </item>
+        <item> بدره </item>
+        <item> پهله </item>
+        <item> توحید </item>
+        <item> چوار </item>
+        <item> دره‌شهر </item>
+        <item> دلگشا </item>
+        <item> دهلران </item>
+        <item> زرنه </item>
+        <item> سرابله </item>
+        <item> سراب‌باغ </item>
+        <item> صالح‌آباد </item>
+        <item> لومار </item>
+        <item> ماژین </item>
+        <item> مورموری </item>
+        <item> موسیان </item>
+        <item> مهر </item>
+        <item> مهران </item>
+        <item> میمه </item>
+
+    </string-array>
+</resources>

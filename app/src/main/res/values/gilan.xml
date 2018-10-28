@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gilan">
+        <item> انتخاب کنید : </item>
+        <item> آستارا </item>
+        <item> آستانه اشرفیه </item>
+        <item> احمدسرگوراب </item>
+        <item> اسالم </item>
+        <item> اطاقور </item>
+        <item> املش </item>
+        <item> بازارجمعه </item>
+        <item> بره‌سر </item>
+        <item> بندر انزلی </item>
+        <item> پره‌سر </item>
+        <item> ماکلوان </item>
+        <item> توتکابن </item>
+        <item> جیرنده </item>
+        <item> چابکسر </item>
+        <item> چاف و چمخاله </item>
+        <item> چوبر </item>
+        <item> حویق </item>
+        <item> خشکبیجار </item>
+        <item> خمام </item>
+        <item> دیلمان </item>
+        <item> رانکوه </item>
+        <item> رحیم‌آباد </item>
+        <item> رستم‌آباد </item>
+        <item> رشت </item>
+        <item> رضوان‌شهر </item>
+        <item> رودبار </item>
+        <item> رودسر </item>
+        <item> رودبنه </item>
+        <item> سنگر </item>
+        <item> سیاهکل </item>
+        <item> شفت </item>
+        <item> شلمان </item>
+        <item> صومعه‌سرا </item>
+        <item> فومن </item>
+        <item> کلاچای </item>
+        <item> کوچصفهان </item>
+        <item> کومله </item>
+        <item> کیاشهر </item>
+        <item> گوراب زرمیخ </item>
+        <item> لاهیجان </item>
+        <item> لشت نشا </item>
+        <item> لنگرود </item>
+        <item> لوشان </item>
+        <item> لوندویل </item>
+        <item> لیسار </item>
+        <item> ماسال </item>
+        <item> ماسوله </item>
+        <item> مرجغل </item>
+        <item> منجیل </item>
+        <item> واجارگاه </item>
+        <item> هشتپر </item>
+
+
+    </string-array>
+</resources>

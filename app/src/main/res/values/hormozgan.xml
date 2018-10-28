@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hormozgan">
+        <item> انتخاب کنید :</item>
+        <item> ابوموسی </item>
+        <item> بستک </item>
+        <item> بندر چارک </item>
+        <item> بندر خمیر </item>
+        <item> بندرعباس </item>
+        <item> بندر لنگه </item>
+        <item> پارسیان </item>
+        <item> تازیان پایین </item>
+        <item> تیرور </item>
+        <item> جاسک </item>
+        <item> جناح </item>
+        <item> حاجی‌آباد </item>
+        <item> درگهان </item>
+        <item> دهبارز </item>
+        <item> رویدر </item>
+        <item> زیارت‌ علی </item>
+        <item> سردشت </item>
+        <item> سندرک </item>
+        <item> سوزا </item>
+        <item> سیریک </item>
+        <item> فارغان </item>
+        <item> فین </item>
+        <item> قشم </item>
+        <item> کنگ </item>
+        <item> کوخرد هرنگ </item>
+        <item> کوهستک </item>
+        <item> کیش </item>
+        <item> لمزان </item>
+        <item> هرمز </item>
+        <item> هشت‌بندی </item>
+        <item> میناب </item>
+
+    </string-array>
+</resources>
